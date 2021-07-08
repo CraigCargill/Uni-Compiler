@@ -1,0 +1,33 @@
+!this is an example program
+let
+    const max ~ 10;
+    integer n;
+	integer a;
+in
+    begin
+        a := 0;
+
+		repeat  
+			begin
+				a := a + 1;
+				put('e');
+			end
+		until a = 10;
+		
+		!expecting leftBracket
+		put)'e');
+		
+		put('e'); put('n'); put('t'); put('e'); put('r'); put(' ');
+        put('n'); put('u'); put('m'); put('b'); put('e'); put('r'); put('p');
+        getint(var n);
+        if n > 0 then
+			if n < max then
+				while n > 0 do
+                    begin
+                        putint(n); puteol();
+                        n := n-1;
+                    end
+            !found something wrong when expecting noelse
+			until
+        noelse;
+    end;
