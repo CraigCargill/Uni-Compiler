@@ -1,0 +1,24 @@
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.genruntimeconfig.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Craig\OneDrive\Languages and Compilers\CW\CM4106 CW 1604113 - Craig cargill\Compiler\obj\Debug\netcoreapp2.1\Compiler.genruntimeconfig.cache
